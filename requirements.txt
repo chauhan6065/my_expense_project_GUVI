@@ -1,0 +1,6 @@
+mysql-connector-python
+SQLAlchemy
+pymysql
+pandas
+streamlit
+faker
